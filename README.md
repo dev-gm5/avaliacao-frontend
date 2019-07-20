@@ -12,7 +12,7 @@ hribeiro@gm5.com.br;
 
 ## Comportamento no tablet
 
-- A Seção "Nossos serviços" terá o primeiro item como destaque ocupando as 12 colunas e os 2 itens restantes dividirão o espaço da segunda linha, ocupando cada um 6 colunas.
+- A Seção "Nossos serviços" terá o primeiro item como destaque, ocupando as 12 colunas e os 2 itens restantes dividirão o espaço da segunda linha, ocupando cada um 6 colunas.
 
 
 ## Requisitos não funcionais:
